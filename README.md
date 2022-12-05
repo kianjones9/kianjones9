@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kian Jones
 - 👀 I’m interested in Networking, Security, and Data
-- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: https://kianjon.es
 
 <!---
